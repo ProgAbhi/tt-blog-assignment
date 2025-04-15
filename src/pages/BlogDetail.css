@@ -1,0 +1,33 @@
+.detail-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+  }
+  
+  .back-button {
+    background: none;
+    border: none;
+    color: #007bff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .detail-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .detail-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+  
+  .detail-description {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
